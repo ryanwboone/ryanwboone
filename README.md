@@ -1,6 +1,4 @@
 ### Hello!
-
-Code for the projects on my resume (Email Spam Classifier and Housing Prices Prediction Model) are in private repositories as they were used for classes. Please email me for access to these repositories! Thank you!
 <!--
 **ryanwboone/ryanwboone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
